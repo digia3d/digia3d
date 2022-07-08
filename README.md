@@ -1,5 +1,6 @@
-<img//home/aleksandra/Desktop/github-profile/img>
-### Hi there 👋
+## <img src="https://digitalnimarketinga3d.com/wp-content/uploads/2021/05/A3D-1.png" width="100px " /> ### Hi there 👋
+
+
 
 <!--
 **digia3d/digia3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
