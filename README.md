@@ -34,6 +34,26 @@ I’m currently working on Bakery website for friend.
 <img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="10%"/> </br> How to reach me:   <a href="https://twitter.com/ujvari65">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
   </a>
+   <a href="https://www.linkedin.com/in/aleksandra-ujvari-85235a210/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
+  </a>
+    <a href="mailto:ujvari65@gmail.com">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
+  </a>
+  
+  ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
+  <p align="center">
+      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+  </p>
+             
+
+   <p align="right">         
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=digia3d&theme=tokyonight&show_icons=true" />
+  <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digia3d&theme=tokyonight&show_icons=true" />
+</p>
  
 
 
