@@ -5,7 +5,7 @@
     My name is <em>Aleksandra</em>. I am a Fulltime student at Microverse. 
   <br/> Coding enthusiast...  
       <br/>
-Creating websites for friends, do marketing,
+Creating websites for friends, doing marketing,
           <br/>
 continuously learning, wanting to help the community
   </samp>
@@ -18,7 +18,7 @@ continuously learning, wanting to help the community
 
 ###  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="10%"/>
 </br>
-I’m currently working on Bakery website for friend.
+I’m currently working on a Bakery website for a friend.
 </br>
 </br>
 </br>
