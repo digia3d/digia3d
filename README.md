@@ -5,8 +5,8 @@
     My name is <em>Aleksandra</em>. I am a Fulltime student at Microverse. 
   <br/> Coding enthusiast...  
       <br/>
-Creating websites for friends, doing marketing,
-          <br/>
+Creating websites for friends, doing marketing, love to solve puzzles...
+          <br/>          
 continuously learning, wanting to help the community
   </samp>
   <br/>
