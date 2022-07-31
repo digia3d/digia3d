@@ -14,24 +14,24 @@ continuously learning, wanting to help the community
   <br/>
 </p>
 
-### <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right"  width="30%"/>
+### <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right"  width="20%"/>
 
-###  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="30%"/>
+###  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/>
 </br>
 I’m currently working on a Bakery website for a friend.
 </br>
 </br>
 </br>
 </br>
-  <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="30%"/> </br>  I’m currently learning JavaScript
+  <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> </br>  I’m currently learning JavaScript
  </br>
 </br>
 </br>
-<img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="30%"/> </br>- 👯 I’m looking to collaborate on any open source project.
+<img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> </br>- 👯 I’m looking to collaborate on any open source project.
  </br>
 </br>
 </br>
-<img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="30%"/> </br> How to reach me:   <a href="https://twitter.com/ujvari65">
+<img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/> </br> How to reach me:   <a href="https://twitter.com/ujvari65">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
   </a>
    <a href="https://www.linkedin.com/in/aleksandra-ujvari-85235a210/">
@@ -40,9 +40,11 @@ I’m currently working on a Bakery website for a friend.
     <a href="mailto:ujvari65@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
+  </br></br></br></br></br>
   
-  ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
+ <p align="center">  ###  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" />  Tools and Frameworks</p>
   <p align="center">
+  </br></br>
       <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
