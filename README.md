@@ -1,4 +1,5 @@
-## <img src="https://digitalnimarketinga3d.com/wp-content/uploads/2021/05/A3D-1.png" width="100px " /> ### Hi there 👋
+## <img src="https://digitalnimarketinga3d.com/wp-content/uploads/2021/05/A3D-1.png" width="100px " /> ### Hi there 👋  ![](https://komarev.com/ghpvc/?username=digia3d)
+
 
 <p align="center" >
   <samp>
@@ -48,6 +49,8 @@ I’m currently working on a Bakery website for a friend.
         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             
   </p>
              
 
