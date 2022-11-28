@@ -19,12 +19,12 @@ continuously learning, wanting to help the community
 
 ###  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/>
 </br>
-I’m currently working on a Bakery website for a friend.
+I’m currently working on a React website for a friend.
 </br>
 </br>
 </br>
 </br>
-  <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> </br>  I’m currently learning JavaScript
+  <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> </br>  I’m currently learning RubyOnRails
  </br>
 </br>
 </br>
