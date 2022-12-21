@@ -40,6 +40,11 @@ I’m currently working on a React website for a friend.
     <a href="mailto:ujvari65@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
+  </br></br></br></br></br>
+      <a href="https://fantastic-alex-portfolio.netlify.app/">My Portfolio is available at
+    <img src="https://github.com/digia3d/react-portfolio/raw/main/src/assets/projects/Portfolio.png" height="30px" style="margin: 5px;" />
+  </a>
+  
   </br></br></br></br></br></br>
   
  <p align="center">  ###  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" font-weight: "bold" />  Tools and Frameworks</p>
