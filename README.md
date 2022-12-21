@@ -3,7 +3,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Aleksandra</em>. I am a Fulltime student at Microverse. 
+    My name is <em>Aleksandra</em>. I am a Full-Stack Software developer. 
   <br/> Coding enthusiast...  
       <br/>
 Creating websites for friends, doing marketing, love to solve puzzles...
@@ -24,7 +24,7 @@ I’m currently working on a React website for a friend.
 </br>
 </br>
 </br>
-  <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> </br>  I’m currently learning RubyOnRails
+  <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> </br>  I’m currently learning some new staff
  </br>
 </br>
 </br>
@@ -52,6 +52,7 @@ I’m currently working on a React website for a friend.
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
              <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+             <a margin="10" href="https://rubyonrails.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/rails.svg" alt="ruby on rails"></a>
              
   </p>
              
