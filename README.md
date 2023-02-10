@@ -1,6 +1,6 @@
 ## <img src="https://digitalnimarketinga3d.com/wp-content/uploads/2021/05/A3D-1.png" width="100px " /> ### Hi there 👋  ![](https://komarev.com/ghpvc/?username=digia3d)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=121ef5&size=30&lines=Hey!+It's+A3D!;I'm+a+Full+Stack+developer...;I'm+a+CRAZY+cat+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=121ef5&size=30&lines=Hey!+It's+Alex!;I'm+a+Full+Stack+developer...;I'm+a+CRAZY+cat+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <p align="center" >
   <samp>
     My name is <em>Aleksandra</em>. I am a Full-Stack Software developer. 
