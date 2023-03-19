@@ -29,12 +29,12 @@ I’m currently working on a RoR Api App for a friend.
 </br>
 </br>
 <img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> </br>- 👯 I’m looking to collaborate on any open source project.
-</br></br></br></br></br>- 
+</br></br></br></br></br>
+<img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/> </br> How to reach me: 
 
-<img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/> </br> How to reach me:   <a href="https://twitter.com/ujvari65">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px"  />
+  <a href="https://twitter.com/ujvari65">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg"  height="35px" style="margin: 5px;" />      
   </a>
-  
    <a href="https://www.linkedin.com/in/aleksandra-ujvari-85235a210/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
