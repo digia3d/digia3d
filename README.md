@@ -19,17 +19,18 @@ continuously learning, wanting to help the community
 
 ###  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/>
 </br>
-I’m currently working on a React website for a friend.
+I’m currently working on a RoR Api App for a friend.
 </br>
 </br>
 </br>
 </br>
-  <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> </br>  I’m currently learning some new staff
+  <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> </br>  I’m currently learning Python
  </br>
 </br>
 </br>
 <img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> </br>- 👯 I’m looking to collaborate on any open source project.
-</br></br></br></br></br>
+</br></br></br></br></br>- 
+
 <img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/> </br> How to reach me:   <a href="https://twitter.com/ujvari65">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px"  />
   </a>
