@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=121ef5&size=30&lines=Hey!+It's+Alex!;I'm+a+Full+Stack+developer...;I'm+a+CRAZY+cat+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <p align="center" >
   <samp>
-    My name is <em>Aleksandra</em>. I am a Full-Stack Software developer. 
+    I'm <em>Aleksandra</em>a Full-Stack Software Developer with a passion for coding and problem-solving. 
   <br/> Coding enthusiast...  
       <br/>
-Creating websites for friends, doing marketing, love to solve puzzles...
+ I enjoy creating websites for friends and family and find satisfaction in solving puzzles and optimizing code.
           <br/>          
-continuously learning, wanting to help the community
+As a continuous learner, I'm always seeking to expand my knowledge and skills in the field.I'm also dedicated to giving back to the community and using my expertise to help others.
   </samp>
   <br/>
   <br/>
