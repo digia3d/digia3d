@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=121ef5&size=30&lines=Hey!+It's+Alex!;I'm+a+Full+Stack+developer...;I'm+a+CRAZY+cat+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <p align="center" >
   <samp>
-    I'm <em>Aleksandra</em>a Full-Stack Software Developer with a passion for coding and problem-solving. 
+    I'm <em>Aleksandra</em> a Full-Stack Software Developer with a passion for coding and problem-solving. 
   <br/> Coding enthusiast...  
       <br/>
  I enjoy creating websites for friends and family and find satisfaction in solving puzzles and optimizing code.
