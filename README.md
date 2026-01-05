@@ -1,4 +1,4 @@
-## <img src="https://i.imgur.com/sern13U.png" width="100" />  Hi there 👋 ![](https://komarev.com/ghpvc/?username=digia3d)
+## <img src="https://i.imgur.com/sern13U.png" width="100" /> Hi there 👋 ![](https://komarev.com/ghpvc/?username=digia3d)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=121ef5&size=30&lines=Hey!+It's+Alex!;I'm+a+Full+Stack+developer...;Crazy+cat+fan+alert;Proud+GitHub+user)](https://git.io/typing-svg)
 
@@ -17,9 +17,9 @@ As a continuous learner, I am always seeking to expand my knowledge and contribu
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left" width="15%" style="margin-right:10px;" />
   I’m currently working on a <strong>Ruby on Rails API App</strong> for a friend.<br/><br/>
   <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left" width="15%" style="margin-right:10px;" />
-  Learning <strong>Python</strong> and exploring new projects.<br/><br/>
+  I’m also developing a <strong>digital marketing website</strong> project – initially built in WordPress, now being upgraded and redesigned with modern tools.<br/><br/>
   <img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left" width="15%" style="margin-right:10px;" />
-  Looking to collaborate on <strong>open source projects</strong> and build amazing things.<br/>
+  Learning <strong>Python</strong> and exploring new projects.<br/>
 </p>
 
 ---
