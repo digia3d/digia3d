@@ -1,4 +1,4 @@
-## <img src="assets/A3D-1.png" width="100px" /> Hi there 👋 ![](https://komarev.com/ghpvc/?username=digia3d)
+## <img src="https://i.imgur.com/sern13U.png" width="100" />  Hi there 👋 ![](https://komarev.com/ghpvc/?username=digia3d)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=121ef5&size=30&lines=Hey!+It's+Alex!;I'm+a+Full+Stack+developer...;Crazy+cat+fan+alert;Proud+GitHub+user)](https://git.io/typing-svg)
 
